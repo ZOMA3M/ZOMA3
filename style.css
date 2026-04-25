@@ -1,0 +1,16 @@
+body {
+  background-color: #121212;
+  color: white;
+  font-family: Arial;
+  text-align: center;
+}
+
+h1 {
+  color: cyan;
+}
+
+img {
+  width: 200px;
+  border-radius: 50%;
+  margin-top: 40px;
+}
